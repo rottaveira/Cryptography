@@ -1,0 +1,13 @@
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/Test.dll
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/Test.pdb
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/CypSimetrica.dll
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/nunit.framework.dll
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/CypSimetrica.pdb
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/nunit.framework.xml
+/Users/rafaeltaveira/Projects/Criptografia/Test/obj/Debug/Test.csproj.AssemblyReference.cache
+/Users/rafaeltaveira/Projects/Criptografia/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/rafaeltaveira/Projects/Criptografia/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/rafaeltaveira/Projects/Criptografia/Test/obj/Debug/Test.dll
+/Users/rafaeltaveira/Projects/Criptografia/Test/obj/Debug/Test.pdb
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/CypAssimetrica.dll
+/Users/rafaeltaveira/Projects/Criptografia/Test/bin/Debug/CypAssimetrica.pdb

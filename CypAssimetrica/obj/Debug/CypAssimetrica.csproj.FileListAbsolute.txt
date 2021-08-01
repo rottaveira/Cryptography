@@ -1,0 +1,6 @@
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/bin/Debug/CypAssimetrica.dll
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/bin/Debug/CypAssimetrica.pdb
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/obj/Debug/CypAssimetrica.csproj.AssemblyReference.cache
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/obj/Debug/CypAssimetrica.csproj.CoreCompileInputs.cache
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/obj/Debug/CypAssimetrica.dll
+/Users/rafaeltaveira/Projects/Criptografia/CypAssimetrica/obj/Debug/CypAssimetrica.pdb
